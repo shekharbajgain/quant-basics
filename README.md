@@ -6,9 +6,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Yahoo Finance](https://img.shields.io/badge/Data-Yahoo%20Finance-5F01D1)
 
-I built this project to move beyond formulas and understand real market behavior.
-I used real stock data and created three focused projects to test ideas step by step.
-I use this repo to show how I approach portfolio decisions, risk, and momentum with hands-on analysis.
+I built this repo to move beyond formulas and study how markets behave in practice.
+Using real stock data, I created three focused mini-projects to test ideas step by step.
+Together, they show how I think about portfolio construction, risk, and momentum through hands-on analysis.
 
 ## ✨ Highlights
 
